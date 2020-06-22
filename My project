@@ -1,0 +1,7 @@
+echo "# pokecord.js" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ace0fSnakes/pokecord.js.git
+git push -u origin master
+                
